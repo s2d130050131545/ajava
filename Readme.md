@@ -1,6 +1,6 @@
 For first time users:
 ---------------------
-Create a github account.
+Create a github account. (user id must be s+div+batch+enrollment_number eg. s2b1926456780)
 Submit your user id to me. (to selected student)
 I will add you in collabrator list.
 Fork test repository in your github account. (you will receive email for this)
