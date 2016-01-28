@@ -1,7 +1,7 @@
 For first time users:
 ---------------------
 Create a github account.
-Email user id to me.
+Submit your user id to me. (to selected student)
 I will add you in collabrator list.
 Fork test repository in your github account. (you will receive email for this)
 
