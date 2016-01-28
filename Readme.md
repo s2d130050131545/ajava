@@ -25,7 +25,7 @@ Fork test repository in your github account. (you will receive email for this)
 =======================
 
 For returning user
-
+------------------
 1. git pull master
 2. enter your username and password
 3. git add "file name"
