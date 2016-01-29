@@ -34,3 +34,5 @@ For returning user
 6. enter your user name and password
 7. check github portal for updated changes
 
+
+![My image](https://cloud.githubusercontent.com/assets/16831556/12673471/f7e0e154-c6a2-11e5-91d8-d5560d0274c2.png)
