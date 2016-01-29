@@ -41,7 +41,7 @@ How to submit screenshots?
 2. Create a new issue. 
 3. Upload screenshot as an issue. 
 4. Copy image URL. 
-5. In readme.md file upload your image using following tag
+5. In readme.md **(for each practical there is a seprate readme.md)** file upload your image using following tag
 	* `![Snapshot 1](link to image)`
 	
 ![Snapshot 1](https://cloud.githubusercontent.com/assets/16831556/12673951/128c6fb6-c6a6-11e5-8185-ddec350711a7.png)
