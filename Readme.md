@@ -36,3 +36,17 @@ For returning user
 
 
 ###![My image](https://cloud.githubusercontent.com/assets/16831556/12673471/f7e0e154-c6a2-11e5-91d8-d5560d0274c2.pn)
+
+How to submit screenshots?
+--------------------------
+1. In your repository go to issues tab. 
+2. Create a new issue. 
+3. Upload screenshot as an issue. 
+4. Copy image URL. 
+5. In readme.md file upload your image using following tag
+	* ![Snapshot 1](https://cloud.githubusercontent.com/assets/16831556/12673471/f7e0e154-c6a2-11e5-91d8-d5560d0274c2.png)
+	* ![Snapshot 2](https://cloud.githubusercontent.com/assets/16831556/12673951/128c6fb6-c6a6-11e5-8185-ddec350711a7.png)
+
+`![Snapshot 1](link to image)`
+
+Happy Programming to you!!!
