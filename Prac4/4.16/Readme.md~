@@ -24,6 +24,9 @@ In send Redirect whenever the client makes any request it goes to the container,
 In this example we are going to make one html in which we will submit the user name and his password. The controller will check if the password entered by the user is correct or not. If the password entered by the user is correct then the servlet will redirect the request to the other servlet which will handle the request. If the password entered by the user is wrong then the request will be forwarded to the html form.
 
 4.16 Session Last Accessed Time Example
+[my op](https://cloud.githubusercontent.com/assets/16938695/13903158/df6c56ac-ee94-11e5-8e05-3a55ab04781e.jpg)
+[my op](https://cloud.githubusercontent.com/assets/16938695/13903158/df6c56ac-ee94-11e5-8e05-3a55ab04781e.jpg)
+
 ---------------------------------------
 This example illustrates to find current  access time of session  and last access time of session. Sessions are used to maintain state and user identity across multiple page requests. An implementation of HttpSession represents the server's view of the session. The server considers a session to be new until it has been joined by the client. Until the client joins the session, isNew() method returns true.
 
