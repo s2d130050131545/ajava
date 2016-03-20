@@ -9,5 +9,8 @@ If the record will get inserted in the table then output will show "record has b
 
 ![insert](https://cloud.githubusercontent.com/assets/16938695/13903179/bb80def0-ee96-11e5-98e6-fb9930fb945a.png)
 ![op](https://cloud.githubusercontent.com/assets/16938695/13903181/c2cc4168-ee96-11e5-8d4f-05b0109f5249.png)
-![sql payal](https://cloud.githubusercontent.com/assets/16938695/13903182/c6e8f3c2-ee96-11e5-8745-d8a6e915f39a.png)
+![sql payal](https://cloud.githubusercontent.com/assets/16938695/13903182/c6e8f3c2-ee96-11e5-8745-d8a6e915f39a.png)![insert](https://cloud.githubusercontent.com/assets/16938695/13903260/7fbe3158-ee99-11e5-813f-3157c0f3787e.png)
+![sql payal](https://cloud.githubusercontent.com/assets/16938695/13903261/8559e328-ee99-11e5-8070-102742ae0a2f.png)
+![op](https://cloud.githubusercontent.com/assets/16938695/13903262/8c59d30e-ee99-11e5-9255-f1505fa813d0.png)
+
 
