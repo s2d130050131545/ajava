@@ -65,6 +65,11 @@ Announcement will be made soon
 ![2016-03-31 50](https://cloud.githubusercontent.com/assets/16938695/14355878/36ed92aa-fd00-11e5-9ce1-3909be2cb597.png)
 ![2016-04-03 5](https://cloud.githubusercontent.com/assets/16938695/14355883/3ab4aed2-fd00-11e5-9467-12f30fda27e3.png)
 ![prac 14 op](https://cloud.githubusercontent.com/assets/16938695/14355939/77040176-fd00-11e5-9342-422ac96a37da.png)
+![capture1](https://cloud.githubusercontent.com/assets/16938695/14355995/aec4219a-fd00-11e5-97e6-12e5c6276f93.PNG)
+![capture2](https://cloud.githubusercontent.com/assets/16938695/14356000/b15f175c-fd00-11e5-8aa5-b0740b05c1e6.PNG)
+![capture3](https://cloud.githubusercontent.com/assets/16938695/14356003/b8522d6a-fd00-11e5-9ade-57a88fb7edc3.PNG)
+![capture4](https://cloud.githubusercontent.com/assets/16938695/14356006/ba6eb6e0-fd00-11e5-9af2-13c73e72edc3.PNG)
+
 
 
 
