@@ -64,5 +64,7 @@ Announcement will be made soon
 ![2016-03-31 49](https://cloud.githubusercontent.com/assets/16938695/14355871/33859c48-fd00-11e5-9739-c8c83d4c09f0.png)
 ![2016-03-31 50](https://cloud.githubusercontent.com/assets/16938695/14355878/36ed92aa-fd00-11e5-9ce1-3909be2cb597.png)
 ![2016-04-03 5](https://cloud.githubusercontent.com/assets/16938695/14355883/3ab4aed2-fd00-11e5-9467-12f30fda27e3.png)
+![prac 14 op](https://cloud.githubusercontent.com/assets/16938695/14355939/77040176-fd00-11e5-9342-422ac96a37da.png)
+
 
 
